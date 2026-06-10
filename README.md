@@ -1,0 +1,2 @@
+# Sales_Dashboard
+This repository contains an interactive Sales Dashboard built using Microsoft Power BI to analyze and visualize sales performance. The dashboard provides key business insights through dynamic charts, KPIs, and filters, helping users track sales trends and make data-driven decisions. This project showcases my skills in Data Analysis, Visualization. 
